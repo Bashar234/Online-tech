@@ -10,6 +10,7 @@ https://online-tech-course.web.app
 - using firebase,
 - this is a programming related website,
 - this is very useful for latest generation people.
+- for performing pdf generate.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
