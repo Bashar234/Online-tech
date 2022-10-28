@@ -14,8 +14,8 @@ const Header = () => {
         <h3 className="my-2 ProgrammingLan">What is online tech?</h3>
         <h6>
           {" "}
-          the right instructor for you. Choose from many topics skill levels,
-          and languages. Shop thousands of high-quality on demand online
+          Find the right instructor for you. Choose from many topics skill
+          levels, and languages. Shop thousands of high-quality on demand online
           courses. Start learning today with Online Tech course.
         </h6>
       </div>
