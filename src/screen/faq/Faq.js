@@ -6,7 +6,7 @@ const Faq = () => {
       <h1>Frequently Ask Questions</h1>
       <hr />
       <div className="qsn1 my-4">
-        <h4>1.About your </h4>
+        <h4>1.About your questions ?</h4>
         <h5 className="mx-4">
           -This is a online programming course website.Here has many programming
           course.
