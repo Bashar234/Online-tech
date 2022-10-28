@@ -9,7 +9,6 @@ const Faq = () => {
         <h4>1.About your website?</h4>
         <h5 className="mx-4">
           -This is a online programming course website.Here has many programming
-          course.
         </h5>
       </div>
     </div>
