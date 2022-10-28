@@ -7,7 +7,9 @@ https://online-tech-course.web.app
 ## Feature
 
 - using react-bootstrap,
-- using firebase
+- using firebase,
+- this is a programming related website,
+- this is very useful for latest generation people.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
